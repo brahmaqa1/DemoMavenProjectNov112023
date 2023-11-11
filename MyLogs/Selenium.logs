@@ -1,0 +1,5 @@
+10:07:28,090 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+10:07:28,098 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+10:07:28,100 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+10:07:28,108 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+10:07:28,109 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Lenovo/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
